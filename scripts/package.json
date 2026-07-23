@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "arg": "^5.0.2",
-    "esbuild": "^0.21.5",
+    "esbuild": "^0.28.1",
     "globby": "^14.0.2",
     "kleur": "^4.1.5",
     "p-limit": "^6.1.0",
-    "svelte": "^4.2.18",
-    "tar": "^7.4.3",
+    "svelte": "^5.55.7",
+    "tar": "^7.5.19",
     "tiny-glob": "^0.2.9"
   },
   "devDependencies": {
